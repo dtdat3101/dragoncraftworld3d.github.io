@@ -179,6 +179,7 @@ freewheel.tv, 1235183, RESELLER
 freewheel.tv, 1235279, RESELLER
 Freewheel.tv, 741650, RESELLER
 fyber.com, 220305, DIRECT
+facebook.com, 856028442770739, DIRECT, c3e20eee3f780d68
 gamoshi.io, 267-b4800, RESELLER
 gitberry.com, 325100011, DIRECT
 gitberry.com, 325100012, RESELLER
